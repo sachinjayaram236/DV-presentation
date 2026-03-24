@@ -120,5 +120,9 @@ If you create notebooks or models using it, feel free to share them with the com
 ## ⭐ how to Run
 
 Open Terminal
+
 ```pip install streamlit pandas plotly  ```
-  ```python -m pip install streamlit pandas plotly```
+
+```python -m pip install streamlit pandas plotly```
+
+---
