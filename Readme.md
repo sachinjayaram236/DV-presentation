@@ -116,3 +116,9 @@ This dataset is designed to encourage **analysis, modeling, and experimentation*
 If you create notebooks or models using it, feel free to share them with the community.
 
 ---
+
+## ⭐ how to Run
+
+Open Terminal
+```pip install streamlit pandas plotly  ```
+  ```python -m pip install streamlit pandas plotly```
